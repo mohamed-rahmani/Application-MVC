@@ -15,5 +15,8 @@
             <include-coda>/WEB-INF/section/footer.jsp</include-coda>
         </jsp-property-group>
     </jsp-config>
-  
+    <servlet-mapping>
+        <servlet-name>Controller</servlet-name>
+        <url-pattern>*.do</url-pattern>
+    </servlet-mapping>
 </web-app>

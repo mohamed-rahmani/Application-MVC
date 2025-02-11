@@ -5,6 +5,7 @@
 package fr.devavance.metier.Authentication;
 
 import fr.devavance.metier.beans.User;
+import fr.devavance.metier.beans.Users;
 
 /**
  *
